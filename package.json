@@ -1,7 +1,7 @@
 {
   "name": "bienesraices",
   "version": "1.0.0",
-  "description": "Curso Desarrollo Web Completo",
+  "description": "Proyecto de 3er departamental",
   "main": "gulpfile.js",
   "scripts": {
     "dev": "gulp"
